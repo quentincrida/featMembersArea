@@ -1,0 +1,25 @@
+[18-Aug-2020 13:03:38] NOTICE: fpm is running, pid 9334
+[18-Aug-2020 13:03:38] NOTICE: ready to handle connections
+[18-Aug-2020 13:32:36] ERROR: Another FPM instance seems to already listen on /home/quentin/.config/Local/run/fXxfBbXaY/php/php-fpm.socket
+[18-Aug-2020 13:32:36] ERROR: FPM initialization failed
+[18-Aug-2020 13:32:37] ERROR: Another FPM instance seems to already listen on /home/quentin/.config/Local/run/fXxfBbXaY/php/php-fpm.socket
+[18-Aug-2020 13:32:37] ERROR: FPM initialization failed
+[18-Aug-2020 13:32:38] ERROR: Another FPM instance seems to already listen on /home/quentin/.config/Local/run/fXxfBbXaY/php/php-fpm.socket
+[18-Aug-2020 13:32:38] ERROR: FPM initialization failed
+[18-Aug-2020 13:32:38] ERROR: Another FPM instance seems to already listen on /home/quentin/.config/Local/run/fXxfBbXaY/php/php-fpm.socket
+[18-Aug-2020 13:32:38] ERROR: FPM initialization failed
+[19-Aug-2020 05:14:05] NOTICE: fpm is running, pid 2314
+[19-Aug-2020 05:14:05] NOTICE: ready to handle connections
+[19-Aug-2020 07:51:38] NOTICE: Terminating ...
+[21-Aug-2020 05:40:28] NOTICE: fpm is running, pid 2980
+[21-Aug-2020 05:40:28] NOTICE: ready to handle connections
+[24-Aug-2020 13:53:37] NOTICE: fpm is running, pid 23815
+[24-Aug-2020 13:53:37] NOTICE: ready to handle connections
+[24-Aug-2020 15:30:15] ERROR: Another FPM instance seems to already listen on /home/quentin/.config/Local/run/fXxfBbXaY/php/php-fpm.socket
+[24-Aug-2020 15:30:15] ERROR: FPM initialization failed
+[24-Aug-2020 15:30:16] ERROR: Another FPM instance seems to already listen on /home/quentin/.config/Local/run/fXxfBbXaY/php/php-fpm.socket
+[24-Aug-2020 15:30:16] ERROR: FPM initialization failed
+[24-Aug-2020 15:30:17] ERROR: Another FPM instance seems to already listen on /home/quentin/.config/Local/run/fXxfBbXaY/php/php-fpm.socket
+[24-Aug-2020 15:30:17] ERROR: FPM initialization failed
+[24-Aug-2020 15:30:18] ERROR: Another FPM instance seems to already listen on /home/quentin/.config/Local/run/fXxfBbXaY/php/php-fpm.socket
+[24-Aug-2020 15:30:18] ERROR: FPM initialization failed
