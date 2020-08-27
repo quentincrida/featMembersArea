@@ -753,4 +753,8 @@ function twentytwenty_get_elements_array() {
 	* @param array Array of elements
 	*/
 	return apply_filters( 'twentytwenty_get_elements_array', $elements );
+	
+	// // Disable unused shortcodes
+
+	// add_shortcode( 'pluginshortcode', '__return_false' );
 }
