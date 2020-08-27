@@ -1,0 +1,295 @@
+[26-Aug-2020 13:53:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/quentin/Local Sites/featmembersarea/app/public/wp-content/plugins/brizy/admin/blocks/api.php on line 290
+[26-Aug-2020 13:53:16 UTC] PHP Stack trace:
+[26-Aug-2020 13:53:16 UTC] PHP   1. {main}() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:0
+[26-Aug-2020 13:53:16 UTC] PHP   2. do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:176
+[26-Aug-2020 13:53:16 UTC] PHP   3. WP_Hook->do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/plugin.php:478
+[26-Aug-2020 13:53:16 UTC] PHP   4. WP_Hook->apply_filters() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:311
+[26-Aug-2020 13:53:16 UTC] PHP   5. Brizy_Admin_Blocks_Api->actionUpdateGlobalBlocks() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:287
+[26-Aug-2020 13:53:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/quentin/Local Sites/featmembersarea/app/public/wp-content/plugins/brizy/admin/blocks/api.php on line 318
+[26-Aug-2020 13:53:16 UTC] PHP Stack trace:
+[26-Aug-2020 13:53:16 UTC] PHP   1. {main}() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:0
+[26-Aug-2020 13:53:16 UTC] PHP   2. do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:176
+[26-Aug-2020 13:53:16 UTC] PHP   3. WP_Hook->do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/plugin.php:478
+[26-Aug-2020 13:53:16 UTC] PHP   4. WP_Hook->apply_filters() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:311
+[26-Aug-2020 13:53:16 UTC] PHP   5. Brizy_Admin_Blocks_Api->actionUpdateGlobalBlocks() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:287
+[26-Aug-2020 13:57:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/quentin/Local Sites/featmembersarea/app/public/wp-content/plugins/brizy/admin/blocks/api.php on line 290
+[26-Aug-2020 13:57:06 UTC] PHP Stack trace:
+[26-Aug-2020 13:57:06 UTC] PHP   1. {main}() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:0
+[26-Aug-2020 13:57:06 UTC] PHP   2. do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:176
+[26-Aug-2020 13:57:06 UTC] PHP   3. WP_Hook->do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/plugin.php:478
+[26-Aug-2020 13:57:06 UTC] PHP   4. WP_Hook->apply_filters() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:311
+[26-Aug-2020 13:57:06 UTC] PHP   5. Brizy_Admin_Blocks_Api->actionUpdateGlobalBlocks() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:287
+[26-Aug-2020 13:57:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/quentin/Local Sites/featmembersarea/app/public/wp-content/plugins/brizy/admin/blocks/api.php on line 318
+[26-Aug-2020 13:57:06 UTC] PHP Stack trace:
+[26-Aug-2020 13:57:06 UTC] PHP   1. {main}() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:0
+[26-Aug-2020 13:57:06 UTC] PHP   2. do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:176
+[26-Aug-2020 13:57:06 UTC] PHP   3. WP_Hook->do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/plugin.php:478
+[26-Aug-2020 13:57:06 UTC] PHP   4. WP_Hook->apply_filters() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:311
+[26-Aug-2020 13:57:06 UTC] PHP   5. Brizy_Admin_Blocks_Api->actionUpdateGlobalBlocks() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:287
+[26-Aug-2020 13:59:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/quentin/Local Sites/featmembersarea/app/public/wp-content/plugins/brizy/admin/blocks/api.php on line 290
+[26-Aug-2020 13:59:20 UTC] PHP Stack trace:
+[26-Aug-2020 13:59:20 UTC] PHP   1. {main}() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:0
+[26-Aug-2020 13:59:20 UTC] PHP   2. do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:176
+[26-Aug-2020 13:59:20 UTC] PHP   3. WP_Hook->do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/plugin.php:478
+[26-Aug-2020 13:59:20 UTC] PHP   4. WP_Hook->apply_filters() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:311
+[26-Aug-2020 13:59:20 UTC] PHP   5. Brizy_Admin_Blocks_Api->actionUpdateGlobalBlocks() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:287
+[26-Aug-2020 13:59:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/quentin/Local Sites/featmembersarea/app/public/wp-content/plugins/brizy/admin/blocks/api.php on line 318
+[26-Aug-2020 13:59:20 UTC] PHP Stack trace:
+[26-Aug-2020 13:59:20 UTC] PHP   1. {main}() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:0
+[26-Aug-2020 13:59:20 UTC] PHP   2. do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:176
+[26-Aug-2020 13:59:20 UTC] PHP   3. WP_Hook->do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/plugin.php:478
+[26-Aug-2020 13:59:20 UTC] PHP   4. WP_Hook->apply_filters() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:311
+[26-Aug-2020 13:59:20 UTC] PHP   5. Brizy_Admin_Blocks_Api->actionUpdateGlobalBlocks() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:287
+[26-Aug-2020 13:59:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/quentin/Local Sites/featmembersarea/app/public/wp-content/plugins/brizy/admin/blocks/api.php on line 290
+[26-Aug-2020 13:59:26 UTC] PHP Stack trace:
+[26-Aug-2020 13:59:26 UTC] PHP   1. {main}() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:0
+[26-Aug-2020 13:59:26 UTC] PHP   2. do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:176
+[26-Aug-2020 13:59:26 UTC] PHP   3. WP_Hook->do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/plugin.php:478
+[26-Aug-2020 13:59:26 UTC] PHP   4. WP_Hook->apply_filters() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:311
+[26-Aug-2020 13:59:26 UTC] PHP   5. Brizy_Admin_Blocks_Api->actionUpdateGlobalBlocks() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:287
+[26-Aug-2020 13:59:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/quentin/Local Sites/featmembersarea/app/public/wp-content/plugins/brizy/admin/blocks/api.php on line 318
+[26-Aug-2020 13:59:26 UTC] PHP Stack trace:
+[26-Aug-2020 13:59:26 UTC] PHP   1. {main}() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:0
+[26-Aug-2020 13:59:26 UTC] PHP   2. do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:176
+[26-Aug-2020 13:59:26 UTC] PHP   3. WP_Hook->do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/plugin.php:478
+[26-Aug-2020 13:59:26 UTC] PHP   4. WP_Hook->apply_filters() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:311
+[26-Aug-2020 13:59:26 UTC] PHP   5. Brizy_Admin_Blocks_Api->actionUpdateGlobalBlocks() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:287
+[26-Aug-2020 14:06:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/quentin/Local Sites/featmembersarea/app/public/wp-content/plugins/brizy/admin/blocks/api.php on line 290
+[26-Aug-2020 14:06:35 UTC] PHP Stack trace:
+[26-Aug-2020 14:06:35 UTC] PHP   1. {main}() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:0
+[26-Aug-2020 14:06:35 UTC] PHP   2. do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:176
+[26-Aug-2020 14:06:35 UTC] PHP   3. WP_Hook->do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/plugin.php:478
+[26-Aug-2020 14:06:35 UTC] PHP   4. WP_Hook->apply_filters() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:311
+[26-Aug-2020 14:06:35 UTC] PHP   5. Brizy_Admin_Blocks_Api->actionUpdateGlobalBlocks() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:287
+[26-Aug-2020 14:06:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/quentin/Local Sites/featmembersarea/app/public/wp-content/plugins/brizy/admin/blocks/api.php on line 318
+[26-Aug-2020 14:06:35 UTC] PHP Stack trace:
+[26-Aug-2020 14:06:35 UTC] PHP   1. {main}() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:0
+[26-Aug-2020 14:06:35 UTC] PHP   2. do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:176
+[26-Aug-2020 14:06:35 UTC] PHP   3. WP_Hook->do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/plugin.php:478
+[26-Aug-2020 14:06:35 UTC] PHP   4. WP_Hook->apply_filters() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:311
+[26-Aug-2020 14:06:35 UTC] PHP   5. Brizy_Admin_Blocks_Api->actionUpdateGlobalBlocks() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:287
+[26-Aug-2020 14:06:56 UTC] WordPress database error Deadlock found when trying to get lock; try restarting transaction for query UPDATE `wp_postmeta` SET `meta_value` = '1' WHERE `meta_key` = 'brizy-need-compile' made by do_action('wp_ajax_brizy_set_project'), WP_Hook->do_action, WP_Hook->apply_filters, Brizy_Editor_API->set_project, do_action('brizy_global_data_updated'), WP_Hook->do_action, WP_Hook->apply_filters, Brizy_Admin_Main->global_data_updated, Brizy_Editor_Post::mark_all_for_compilation
+[26-Aug-2020 14:06:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/quentin/Local Sites/featmembersarea/app/public/wp-content/plugins/brizy/admin/blocks/api.php on line 290
+[26-Aug-2020 14:06:58 UTC] PHP Stack trace:
+[26-Aug-2020 14:06:58 UTC] PHP   1. {main}() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:0
+[26-Aug-2020 14:06:58 UTC] PHP   2. do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:176
+[26-Aug-2020 14:06:58 UTC] PHP   3. WP_Hook->do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/plugin.php:478
+[26-Aug-2020 14:06:58 UTC] PHP   4. WP_Hook->apply_filters() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:311
+[26-Aug-2020 14:06:58 UTC] PHP   5. Brizy_Admin_Blocks_Api->actionUpdateGlobalBlocks() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:287
+[26-Aug-2020 14:06:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/quentin/Local Sites/featmembersarea/app/public/wp-content/plugins/brizy/admin/blocks/api.php on line 318
+[26-Aug-2020 14:06:58 UTC] PHP Stack trace:
+[26-Aug-2020 14:06:58 UTC] PHP   1. {main}() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:0
+[26-Aug-2020 14:06:58 UTC] PHP   2. do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:176
+[26-Aug-2020 14:06:58 UTC] PHP   3. WP_Hook->do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/plugin.php:478
+[26-Aug-2020 14:06:58 UTC] PHP   4. WP_Hook->apply_filters() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:311
+[26-Aug-2020 14:06:58 UTC] PHP   5. Brizy_Admin_Blocks_Api->actionUpdateGlobalBlocks() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:287
+[26-Aug-2020 14:10:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/quentin/Local Sites/featmembersarea/app/public/wp-content/plugins/brizy/admin/blocks/api.php on line 290
+[26-Aug-2020 14:10:28 UTC] PHP Stack trace:
+[26-Aug-2020 14:10:28 UTC] PHP   1. {main}() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:0
+[26-Aug-2020 14:10:28 UTC] PHP   2. do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:176
+[26-Aug-2020 14:10:28 UTC] PHP   3. WP_Hook->do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/plugin.php:478
+[26-Aug-2020 14:10:28 UTC] PHP   4. WP_Hook->apply_filters() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:311
+[26-Aug-2020 14:10:28 UTC] PHP   5. Brizy_Admin_Blocks_Api->actionUpdateGlobalBlocks() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:287
+[26-Aug-2020 14:10:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/quentin/Local Sites/featmembersarea/app/public/wp-content/plugins/brizy/admin/blocks/api.php on line 318
+[26-Aug-2020 14:10:28 UTC] PHP Stack trace:
+[26-Aug-2020 14:10:28 UTC] PHP   1. {main}() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:0
+[26-Aug-2020 14:10:28 UTC] PHP   2. do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:176
+[26-Aug-2020 14:10:28 UTC] PHP   3. WP_Hook->do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/plugin.php:478
+[26-Aug-2020 14:10:28 UTC] PHP   4. WP_Hook->apply_filters() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:311
+[26-Aug-2020 14:10:28 UTC] PHP   5. Brizy_Admin_Blocks_Api->actionUpdateGlobalBlocks() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:287
+[26-Aug-2020 14:10:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/quentin/Local Sites/featmembersarea/app/public/wp-content/plugins/brizy/admin/blocks/api.php on line 290
+[26-Aug-2020 14:10:46 UTC] PHP Stack trace:
+[26-Aug-2020 14:10:46 UTC] PHP   1. {main}() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:0
+[26-Aug-2020 14:10:46 UTC] PHP   2. do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:176
+[26-Aug-2020 14:10:46 UTC] PHP   3. WP_Hook->do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/plugin.php:478
+[26-Aug-2020 14:10:46 UTC] PHP   4. WP_Hook->apply_filters() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:311
+[26-Aug-2020 14:10:46 UTC] PHP   5. Brizy_Admin_Blocks_Api->actionUpdateGlobalBlocks() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:287
+[26-Aug-2020 14:10:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/quentin/Local Sites/featmembersarea/app/public/wp-content/plugins/brizy/admin/blocks/api.php on line 318
+[26-Aug-2020 14:10:46 UTC] PHP Stack trace:
+[26-Aug-2020 14:10:46 UTC] PHP   1. {main}() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:0
+[26-Aug-2020 14:10:46 UTC] PHP   2. do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:176
+[26-Aug-2020 14:10:46 UTC] PHP   3. WP_Hook->do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/plugin.php:478
+[26-Aug-2020 14:10:46 UTC] PHP   4. WP_Hook->apply_filters() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:311
+[26-Aug-2020 14:10:46 UTC] PHP   5. Brizy_Admin_Blocks_Api->actionUpdateGlobalBlocks() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:287
+[26-Aug-2020 14:13:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/quentin/Local Sites/featmembersarea/app/public/wp-content/plugins/brizy/admin/blocks/api.php on line 290
+[26-Aug-2020 14:13:12 UTC] PHP Stack trace:
+[26-Aug-2020 14:13:12 UTC] PHP   1. {main}() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:0
+[26-Aug-2020 14:13:12 UTC] PHP   2. do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:176
+[26-Aug-2020 14:13:12 UTC] PHP   3. WP_Hook->do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/plugin.php:478
+[26-Aug-2020 14:13:12 UTC] PHP   4. WP_Hook->apply_filters() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:311
+[26-Aug-2020 14:13:12 UTC] PHP   5. Brizy_Admin_Blocks_Api->actionUpdateGlobalBlocks() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:287
+[26-Aug-2020 14:13:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/quentin/Local Sites/featmembersarea/app/public/wp-content/plugins/brizy/admin/blocks/api.php on line 318
+[26-Aug-2020 14:13:12 UTC] PHP Stack trace:
+[26-Aug-2020 14:13:12 UTC] PHP   1. {main}() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:0
+[26-Aug-2020 14:13:12 UTC] PHP   2. do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:176
+[26-Aug-2020 14:13:12 UTC] PHP   3. WP_Hook->do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/plugin.php:478
+[26-Aug-2020 14:13:12 UTC] PHP   4. WP_Hook->apply_filters() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:311
+[26-Aug-2020 14:13:12 UTC] PHP   5. Brizy_Admin_Blocks_Api->actionUpdateGlobalBlocks() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:287
+[26-Aug-2020 14:13:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/quentin/Local Sites/featmembersarea/app/public/wp-content/plugins/brizy/admin/blocks/api.php on line 290
+[26-Aug-2020 14:13:16 UTC] PHP Stack trace:
+[26-Aug-2020 14:13:16 UTC] PHP   1. {main}() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:0
+[26-Aug-2020 14:13:16 UTC] PHP   2. do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:176
+[26-Aug-2020 14:13:16 UTC] PHP   3. WP_Hook->do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/plugin.php:478
+[26-Aug-2020 14:13:16 UTC] PHP   4. WP_Hook->apply_filters() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:311
+[26-Aug-2020 14:13:16 UTC] PHP   5. Brizy_Admin_Blocks_Api->actionUpdateGlobalBlocks() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:287
+[26-Aug-2020 14:13:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/quentin/Local Sites/featmembersarea/app/public/wp-content/plugins/brizy/admin/blocks/api.php on line 318
+[26-Aug-2020 14:13:16 UTC] PHP Stack trace:
+[26-Aug-2020 14:13:16 UTC] PHP   1. {main}() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:0
+[26-Aug-2020 14:13:16 UTC] PHP   2. do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:176
+[26-Aug-2020 14:13:16 UTC] PHP   3. WP_Hook->do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/plugin.php:478
+[26-Aug-2020 14:13:16 UTC] PHP   4. WP_Hook->apply_filters() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:311
+[26-Aug-2020 14:13:16 UTC] PHP   5. Brizy_Admin_Blocks_Api->actionUpdateGlobalBlocks() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:287
+[26-Aug-2020 14:15:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/quentin/Local Sites/featmembersarea/app/public/wp-content/plugins/brizy/admin/blocks/api.php on line 290
+[26-Aug-2020 14:15:46 UTC] PHP Stack trace:
+[26-Aug-2020 14:15:46 UTC] PHP   1. {main}() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:0
+[26-Aug-2020 14:15:46 UTC] PHP   2. do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:176
+[26-Aug-2020 14:15:46 UTC] PHP   3. WP_Hook->do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/plugin.php:478
+[26-Aug-2020 14:15:46 UTC] PHP   4. WP_Hook->apply_filters() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:311
+[26-Aug-2020 14:15:46 UTC] PHP   5. Brizy_Admin_Blocks_Api->actionUpdateGlobalBlocks() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:287
+[26-Aug-2020 14:15:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/quentin/Local Sites/featmembersarea/app/public/wp-content/plugins/brizy/admin/blocks/api.php on line 318
+[26-Aug-2020 14:15:46 UTC] PHP Stack trace:
+[26-Aug-2020 14:15:46 UTC] PHP   1. {main}() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:0
+[26-Aug-2020 14:15:46 UTC] PHP   2. do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:176
+[26-Aug-2020 14:15:46 UTC] PHP   3. WP_Hook->do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/plugin.php:478
+[26-Aug-2020 14:15:46 UTC] PHP   4. WP_Hook->apply_filters() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:311
+[26-Aug-2020 14:15:46 UTC] PHP   5. Brizy_Admin_Blocks_Api->actionUpdateGlobalBlocks() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:287
+[26-Aug-2020 14:16:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/quentin/Local Sites/featmembersarea/app/public/wp-content/plugins/brizy/admin/blocks/api.php on line 290
+[26-Aug-2020 14:16:57 UTC] PHP Stack trace:
+[26-Aug-2020 14:16:57 UTC] PHP   1. {main}() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:0
+[26-Aug-2020 14:16:57 UTC] PHP   2. do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:176
+[26-Aug-2020 14:16:57 UTC] PHP   3. WP_Hook->do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/plugin.php:478
+[26-Aug-2020 14:16:57 UTC] PHP   4. WP_Hook->apply_filters() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:311
+[26-Aug-2020 14:16:57 UTC] PHP   5. Brizy_Admin_Blocks_Api->actionUpdateGlobalBlocks() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:287
+[26-Aug-2020 14:16:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/quentin/Local Sites/featmembersarea/app/public/wp-content/plugins/brizy/admin/blocks/api.php on line 318
+[26-Aug-2020 14:16:57 UTC] PHP Stack trace:
+[26-Aug-2020 14:16:57 UTC] PHP   1. {main}() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:0
+[26-Aug-2020 14:16:57 UTC] PHP   2. do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:176
+[26-Aug-2020 14:16:57 UTC] PHP   3. WP_Hook->do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/plugin.php:478
+[26-Aug-2020 14:16:57 UTC] PHP   4. WP_Hook->apply_filters() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:311
+[26-Aug-2020 14:16:57 UTC] PHP   5. Brizy_Admin_Blocks_Api->actionUpdateGlobalBlocks() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:287
+[26-Aug-2020 14:18:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/quentin/Local Sites/featmembersarea/app/public/wp-content/plugins/brizy/admin/blocks/api.php on line 290
+[26-Aug-2020 14:18:48 UTC] PHP Stack trace:
+[26-Aug-2020 14:18:48 UTC] PHP   1. {main}() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:0
+[26-Aug-2020 14:18:48 UTC] PHP   2. do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:176
+[26-Aug-2020 14:18:48 UTC] PHP   3. WP_Hook->do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/plugin.php:478
+[26-Aug-2020 14:18:48 UTC] PHP   4. WP_Hook->apply_filters() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:311
+[26-Aug-2020 14:18:48 UTC] PHP   5. Brizy_Admin_Blocks_Api->actionUpdateGlobalBlocks() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:287
+[26-Aug-2020 14:18:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/quentin/Local Sites/featmembersarea/app/public/wp-content/plugins/brizy/admin/blocks/api.php on line 318
+[26-Aug-2020 14:18:48 UTC] PHP Stack trace:
+[26-Aug-2020 14:18:48 UTC] PHP   1. {main}() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:0
+[26-Aug-2020 14:18:48 UTC] PHP   2. do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:176
+[26-Aug-2020 14:18:48 UTC] PHP   3. WP_Hook->do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/plugin.php:478
+[26-Aug-2020 14:18:48 UTC] PHP   4. WP_Hook->apply_filters() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:311
+[26-Aug-2020 14:18:48 UTC] PHP   5. Brizy_Admin_Blocks_Api->actionUpdateGlobalBlocks() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:287
+[26-Aug-2020 14:20:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/quentin/Local Sites/featmembersarea/app/public/wp-content/plugins/brizy/admin/blocks/api.php on line 290
+[26-Aug-2020 14:20:07 UTC] PHP Stack trace:
+[26-Aug-2020 14:20:07 UTC] PHP   1. {main}() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:0
+[26-Aug-2020 14:20:07 UTC] PHP   2. do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:176
+[26-Aug-2020 14:20:07 UTC] PHP   3. WP_Hook->do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/plugin.php:478
+[26-Aug-2020 14:20:07 UTC] PHP   4. WP_Hook->apply_filters() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:311
+[26-Aug-2020 14:20:07 UTC] PHP   5. Brizy_Admin_Blocks_Api->actionUpdateGlobalBlocks() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:287
+[26-Aug-2020 14:20:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/quentin/Local Sites/featmembersarea/app/public/wp-content/plugins/brizy/admin/blocks/api.php on line 318
+[26-Aug-2020 14:20:07 UTC] PHP Stack trace:
+[26-Aug-2020 14:20:07 UTC] PHP   1. {main}() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:0
+[26-Aug-2020 14:20:07 UTC] PHP   2. do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:176
+[26-Aug-2020 14:20:07 UTC] PHP   3. WP_Hook->do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/plugin.php:478
+[26-Aug-2020 14:20:07 UTC] PHP   4. WP_Hook->apply_filters() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:311
+[26-Aug-2020 14:20:07 UTC] PHP   5. Brizy_Admin_Blocks_Api->actionUpdateGlobalBlocks() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:287
+[26-Aug-2020 14:24:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/quentin/Local Sites/featmembersarea/app/public/wp-content/plugins/brizy/admin/blocks/api.php on line 290
+[26-Aug-2020 14:24:44 UTC] PHP Stack trace:
+[26-Aug-2020 14:24:44 UTC] PHP   1. {main}() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:0
+[26-Aug-2020 14:24:44 UTC] PHP   2. do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:176
+[26-Aug-2020 14:24:44 UTC] PHP   3. WP_Hook->do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/plugin.php:478
+[26-Aug-2020 14:24:44 UTC] PHP   4. WP_Hook->apply_filters() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:311
+[26-Aug-2020 14:24:44 UTC] PHP   5. Brizy_Admin_Blocks_Api->actionUpdateGlobalBlocks() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:287
+[26-Aug-2020 14:24:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/quentin/Local Sites/featmembersarea/app/public/wp-content/plugins/brizy/admin/blocks/api.php on line 318
+[26-Aug-2020 14:24:44 UTC] PHP Stack trace:
+[26-Aug-2020 14:24:44 UTC] PHP   1. {main}() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:0
+[26-Aug-2020 14:24:44 UTC] PHP   2. do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:176
+[26-Aug-2020 14:24:44 UTC] PHP   3. WP_Hook->do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/plugin.php:478
+[26-Aug-2020 14:24:44 UTC] PHP   4. WP_Hook->apply_filters() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:311
+[26-Aug-2020 14:24:44 UTC] PHP   5. Brizy_Admin_Blocks_Api->actionUpdateGlobalBlocks() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:287
+[26-Aug-2020 14:25:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/quentin/Local Sites/featmembersarea/app/public/wp-content/plugins/brizy/admin/blocks/api.php on line 290
+[26-Aug-2020 14:25:09 UTC] PHP Stack trace:
+[26-Aug-2020 14:25:09 UTC] PHP   1. {main}() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:0
+[26-Aug-2020 14:25:09 UTC] PHP   2. do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:176
+[26-Aug-2020 14:25:09 UTC] PHP   3. WP_Hook->do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/plugin.php:478
+[26-Aug-2020 14:25:09 UTC] PHP   4. WP_Hook->apply_filters() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:311
+[26-Aug-2020 14:25:09 UTC] PHP   5. Brizy_Admin_Blocks_Api->actionUpdateGlobalBlocks() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:287
+[26-Aug-2020 14:25:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/quentin/Local Sites/featmembersarea/app/public/wp-content/plugins/brizy/admin/blocks/api.php on line 318
+[26-Aug-2020 14:25:09 UTC] PHP Stack trace:
+[26-Aug-2020 14:25:09 UTC] PHP   1. {main}() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:0
+[26-Aug-2020 14:25:09 UTC] PHP   2. do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:176
+[26-Aug-2020 14:25:09 UTC] PHP   3. WP_Hook->do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/plugin.php:478
+[26-Aug-2020 14:25:09 UTC] PHP   4. WP_Hook->apply_filters() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:311
+[26-Aug-2020 14:25:09 UTC] PHP   5. Brizy_Admin_Blocks_Api->actionUpdateGlobalBlocks() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:287
+[26-Aug-2020 14:27:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/quentin/Local Sites/featmembersarea/app/public/wp-content/plugins/brizy/admin/blocks/api.php on line 290
+[26-Aug-2020 14:27:30 UTC] PHP Stack trace:
+[26-Aug-2020 14:27:30 UTC] PHP   1. {main}() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:0
+[26-Aug-2020 14:27:30 UTC] PHP   2. do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:176
+[26-Aug-2020 14:27:30 UTC] PHP   3. WP_Hook->do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/plugin.php:478
+[26-Aug-2020 14:27:30 UTC] PHP   4. WP_Hook->apply_filters() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:311
+[26-Aug-2020 14:27:30 UTC] PHP   5. Brizy_Admin_Blocks_Api->actionUpdateGlobalBlocks() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:287
+[26-Aug-2020 14:27:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/quentin/Local Sites/featmembersarea/app/public/wp-content/plugins/brizy/admin/blocks/api.php on line 318
+[26-Aug-2020 14:27:30 UTC] PHP Stack trace:
+[26-Aug-2020 14:27:30 UTC] PHP   1. {main}() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:0
+[26-Aug-2020 14:27:30 UTC] PHP   2. do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:176
+[26-Aug-2020 14:27:30 UTC] PHP   3. WP_Hook->do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/plugin.php:478
+[26-Aug-2020 14:27:30 UTC] PHP   4. WP_Hook->apply_filters() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:311
+[26-Aug-2020 14:27:30 UTC] PHP   5. Brizy_Admin_Blocks_Api->actionUpdateGlobalBlocks() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:287
+[26-Aug-2020 14:28:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/quentin/Local Sites/featmembersarea/app/public/wp-content/plugins/brizy/admin/blocks/api.php on line 290
+[26-Aug-2020 14:28:19 UTC] PHP Stack trace:
+[26-Aug-2020 14:28:19 UTC] PHP   1. {main}() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:0
+[26-Aug-2020 14:28:19 UTC] PHP   2. do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:176
+[26-Aug-2020 14:28:19 UTC] PHP   3. WP_Hook->do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/plugin.php:478
+[26-Aug-2020 14:28:19 UTC] PHP   4. WP_Hook->apply_filters() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:311
+[26-Aug-2020 14:28:19 UTC] PHP   5. Brizy_Admin_Blocks_Api->actionUpdateGlobalBlocks() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:287
+[26-Aug-2020 14:28:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/quentin/Local Sites/featmembersarea/app/public/wp-content/plugins/brizy/admin/blocks/api.php on line 318
+[26-Aug-2020 14:28:19 UTC] PHP Stack trace:
+[26-Aug-2020 14:28:19 UTC] PHP   1. {main}() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:0
+[26-Aug-2020 14:28:19 UTC] PHP   2. do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:176
+[26-Aug-2020 14:28:19 UTC] PHP   3. WP_Hook->do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/plugin.php:478
+[26-Aug-2020 14:28:19 UTC] PHP   4. WP_Hook->apply_filters() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:311
+[26-Aug-2020 14:28:19 UTC] PHP   5. Brizy_Admin_Blocks_Api->actionUpdateGlobalBlocks() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:287
+[27-Aug-2020 06:16:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/quentin/Local Sites/featmembersarea/app/public/wp-content/plugins/brizy/admin/blocks/api.php on line 290
+[27-Aug-2020 06:16:16 UTC] PHP Stack trace:
+[27-Aug-2020 06:16:16 UTC] PHP   1. {main}() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:0
+[27-Aug-2020 06:16:16 UTC] PHP   2. do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:176
+[27-Aug-2020 06:16:16 UTC] PHP   3. WP_Hook->do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/plugin.php:478
+[27-Aug-2020 06:16:16 UTC] PHP   4. WP_Hook->apply_filters() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:311
+[27-Aug-2020 06:16:16 UTC] PHP   5. Brizy_Admin_Blocks_Api->actionUpdateGlobalBlocks() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:287
+[27-Aug-2020 06:16:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/quentin/Local Sites/featmembersarea/app/public/wp-content/plugins/brizy/admin/blocks/api.php on line 318
+[27-Aug-2020 06:16:16 UTC] PHP Stack trace:
+[27-Aug-2020 06:16:16 UTC] PHP   1. {main}() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:0
+[27-Aug-2020 06:16:16 UTC] PHP   2. do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:176
+[27-Aug-2020 06:16:16 UTC] PHP   3. WP_Hook->do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/plugin.php:478
+[27-Aug-2020 06:16:16 UTC] PHP   4. WP_Hook->apply_filters() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:311
+[27-Aug-2020 06:16:16 UTC] PHP   5. Brizy_Admin_Blocks_Api->actionUpdateGlobalBlocks() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:287
+[27-Aug-2020 06:16:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/quentin/Local Sites/featmembersarea/app/public/wp-content/plugins/brizy/admin/blocks/api.php on line 290
+[27-Aug-2020 06:16:20 UTC] PHP Stack trace:
+[27-Aug-2020 06:16:20 UTC] PHP   1. {main}() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:0
+[27-Aug-2020 06:16:20 UTC] PHP   2. do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:176
+[27-Aug-2020 06:16:20 UTC] PHP   3. WP_Hook->do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/plugin.php:478
+[27-Aug-2020 06:16:20 UTC] PHP   4. WP_Hook->apply_filters() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:311
+[27-Aug-2020 06:16:20 UTC] PHP   5. Brizy_Admin_Blocks_Api->actionUpdateGlobalBlocks() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:287
+[27-Aug-2020 06:16:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/quentin/Local Sites/featmembersarea/app/public/wp-content/plugins/brizy/admin/blocks/api.php on line 318
+[27-Aug-2020 06:16:20 UTC] PHP Stack trace:
+[27-Aug-2020 06:16:20 UTC] PHP   1. {main}() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:0
+[27-Aug-2020 06:16:20 UTC] PHP   2. do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:176
+[27-Aug-2020 06:16:20 UTC] PHP   3. WP_Hook->do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/plugin.php:478
+[27-Aug-2020 06:16:20 UTC] PHP   4. WP_Hook->apply_filters() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:311
+[27-Aug-2020 06:16:20 UTC] PHP   5. Brizy_Admin_Blocks_Api->actionUpdateGlobalBlocks() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:287
+[27-Aug-2020 06:17:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/quentin/Local Sites/featmembersarea/app/public/wp-content/plugins/brizy/admin/blocks/api.php on line 290
+[27-Aug-2020 06:17:19 UTC] PHP Stack trace:
+[27-Aug-2020 06:17:19 UTC] PHP   1. {main}() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:0
+[27-Aug-2020 06:17:19 UTC] PHP   2. do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:176
+[27-Aug-2020 06:17:19 UTC] PHP   3. WP_Hook->do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/plugin.php:478
+[27-Aug-2020 06:17:19 UTC] PHP   4. WP_Hook->apply_filters() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:311
+[27-Aug-2020 06:17:19 UTC] PHP   5. Brizy_Admin_Blocks_Api->actionUpdateGlobalBlocks() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:287
+[27-Aug-2020 06:17:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/quentin/Local Sites/featmembersarea/app/public/wp-content/plugins/brizy/admin/blocks/api.php on line 318
+[27-Aug-2020 06:17:19 UTC] PHP Stack trace:
+[27-Aug-2020 06:17:19 UTC] PHP   1. {main}() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:0
+[27-Aug-2020 06:17:19 UTC] PHP   2. do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-admin/admin-ajax.php:176
+[27-Aug-2020 06:17:19 UTC] PHP   3. WP_Hook->do_action() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/plugin.php:478
+[27-Aug-2020 06:17:19 UTC] PHP   4. WP_Hook->apply_filters() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:311
+[27-Aug-2020 06:17:19 UTC] PHP   5. Brizy_Admin_Blocks_Api->actionUpdateGlobalBlocks() /home/quentin/Local Sites/featmembersarea/app/public/wp-includes/class-wp-hook.php:287

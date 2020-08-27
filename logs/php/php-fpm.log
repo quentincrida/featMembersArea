@@ -23,3 +23,53 @@
 [24-Aug-2020 15:30:17] ERROR: FPM initialization failed
 [24-Aug-2020 15:30:18] ERROR: Another FPM instance seems to already listen on /home/quentin/.config/Local/run/fXxfBbXaY/php/php-fpm.socket
 [24-Aug-2020 15:30:18] ERROR: FPM initialization failed
+[24-Aug-2020 20:00:36] NOTICE: Terminating ...
+[25-Aug-2020 09:40:49] NOTICE: fpm is running, pid 2279
+[25-Aug-2020 09:40:49] NOTICE: ready to handle connections
+[25-Aug-2020 10:04:15] ERROR: Another FPM instance seems to already listen on /home/quentin/.config/Local/run/fXxfBbXaY/php/php-fpm.socket
+[25-Aug-2020 10:04:15] ERROR: FPM initialization failed
+[25-Aug-2020 10:04:15] ERROR: Another FPM instance seems to already listen on /home/quentin/.config/Local/run/fXxfBbXaY/php/php-fpm.socket
+[25-Aug-2020 10:04:15] ERROR: FPM initialization failed
+[25-Aug-2020 10:04:16] ERROR: Another FPM instance seems to already listen on /home/quentin/.config/Local/run/fXxfBbXaY/php/php-fpm.socket
+[25-Aug-2020 10:04:16] ERROR: FPM initialization failed
+[25-Aug-2020 10:04:17] ERROR: Another FPM instance seems to already listen on /home/quentin/.config/Local/run/fXxfBbXaY/php/php-fpm.socket
+[25-Aug-2020 10:04:17] ERROR: FPM initialization failed
+[25-Aug-2020 11:22:02] ERROR: Another FPM instance seems to already listen on /home/quentin/.config/Local/run/fXxfBbXaY/php/php-fpm.socket
+[25-Aug-2020 11:22:02] ERROR: FPM initialization failed
+[25-Aug-2020 11:22:03] ERROR: Another FPM instance seems to already listen on /home/quentin/.config/Local/run/fXxfBbXaY/php/php-fpm.socket
+[25-Aug-2020 11:22:03] ERROR: FPM initialization failed
+[25-Aug-2020 11:22:03] ERROR: Another FPM instance seems to already listen on /home/quentin/.config/Local/run/fXxfBbXaY/php/php-fpm.socket
+[25-Aug-2020 11:22:03] ERROR: FPM initialization failed
+[25-Aug-2020 11:22:04] ERROR: Another FPM instance seems to already listen on /home/quentin/.config/Local/run/fXxfBbXaY/php/php-fpm.socket
+[25-Aug-2020 11:22:04] ERROR: FPM initialization failed
+[25-Aug-2020 11:34:57] ERROR: Another FPM instance seems to already listen on /home/quentin/.config/Local/run/fXxfBbXaY/php/php-fpm.socket
+[25-Aug-2020 11:34:57] ERROR: FPM initialization failed
+[25-Aug-2020 11:34:58] ERROR: Another FPM instance seems to already listen on /home/quentin/.config/Local/run/fXxfBbXaY/php/php-fpm.socket
+[25-Aug-2020 11:34:58] ERROR: FPM initialization failed
+[25-Aug-2020 11:34:58] ERROR: Another FPM instance seems to already listen on /home/quentin/.config/Local/run/fXxfBbXaY/php/php-fpm.socket
+[25-Aug-2020 11:34:58] ERROR: FPM initialization failed
+[25-Aug-2020 11:34:59] ERROR: Another FPM instance seems to already listen on /home/quentin/.config/Local/run/fXxfBbXaY/php/php-fpm.socket
+[25-Aug-2020 11:34:59] ERROR: FPM initialization failed
+[25-Aug-2020 11:46:21] NOTICE: fpm is running, pid 2122
+[25-Aug-2020 11:46:21] NOTICE: ready to handle connections
+[26-Aug-2020 07:00:10] NOTICE: fpm is running, pid 6162
+[26-Aug-2020 07:00:10] NOTICE: ready to handle connections
+[26-Aug-2020 13:44:19] ERROR: Another FPM instance seems to already listen on /home/quentin/.config/Local/run/fXxfBbXaY/php/php-fpm.socket
+[26-Aug-2020 13:44:19] ERROR: FPM initialization failed
+[26-Aug-2020 13:44:19] ERROR: Another FPM instance seems to already listen on /home/quentin/.config/Local/run/fXxfBbXaY/php/php-fpm.socket
+[26-Aug-2020 13:44:19] ERROR: FPM initialization failed
+[26-Aug-2020 13:44:20] ERROR: Another FPM instance seems to already listen on /home/quentin/.config/Local/run/fXxfBbXaY/php/php-fpm.socket
+[26-Aug-2020 13:44:20] ERROR: FPM initialization failed
+[26-Aug-2020 13:44:21] ERROR: Another FPM instance seems to already listen on /home/quentin/.config/Local/run/fXxfBbXaY/php/php-fpm.socket
+[26-Aug-2020 13:44:21] ERROR: FPM initialization failed
+[26-Aug-2020 14:38:15] ERROR: Another FPM instance seems to already listen on /home/quentin/.config/Local/run/fXxfBbXaY/php/php-fpm.socket
+[26-Aug-2020 14:38:15] ERROR: FPM initialization failed
+[26-Aug-2020 14:38:16] ERROR: Another FPM instance seems to already listen on /home/quentin/.config/Local/run/fXxfBbXaY/php/php-fpm.socket
+[26-Aug-2020 14:38:16] ERROR: FPM initialization failed
+[26-Aug-2020 14:38:17] ERROR: Another FPM instance seems to already listen on /home/quentin/.config/Local/run/fXxfBbXaY/php/php-fpm.socket
+[26-Aug-2020 14:38:17] ERROR: FPM initialization failed
+[26-Aug-2020 14:38:17] ERROR: Another FPM instance seems to already listen on /home/quentin/.config/Local/run/fXxfBbXaY/php/php-fpm.socket
+[26-Aug-2020 14:38:17] ERROR: FPM initialization failed
+[26-Aug-2020 20:33:20] NOTICE: Terminating ...
+[27-Aug-2020 06:50:35] NOTICE: fpm is running, pid 9240
+[27-Aug-2020 06:50:35] NOTICE: ready to handle connections
